@@ -3,8 +3,8 @@ title: "Reducing Power of Traffic Manager in Routers via Dynamic On/Off-chip Sch
 collection: publications
 permalink: /publication/2012-fan-infocom
 date: March 2012
-venue: 'IEEE Infocom'
+venue: 'IEEE INFOCOM 2012'
 paperurl: '/files/papers/fan2012infocom.pdf'
 link: 'https://ieeexplore.ieee.org/document/6195569'
-citation: 'Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu. IEEE INFOCOM 2012.'
+citation: 'Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu'
 ---
