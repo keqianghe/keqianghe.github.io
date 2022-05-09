@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2012-fan-infocom
 date: March 2012
 venue: 'IEEE Infocom'
-paperurl: '/files/papers/2012-fan-infocom.pdf'
+paperurl: '/files/papers/fan2012infocom.pdf'
 link: 'https://ieeexplore.ieee.org/document/6195569'
+citation: 'Jindou Fan, Chengchen Hu, Keqiang He, Junchen Jiang and Bin Liu. IEEE INFOCOM 2012.'
 ---
