@@ -11,22 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Wisconsin-Madison, 2017
+* M.E. in Computer Science & Technology, Tsinghua University, 2012
+* B.E. in Software Engineering, Xidian University, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2017 to present: Software Engineer
+  * Google
+  * R&D of data center network solutions for Google and Google Cloud 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer and Fall 2016: Software Engineering Intern
+  * Google
   
+* Summer and Fall 2015: Research Intern
+  * IBM Research-Austin
+
+* Summer and Fall 2014: Research Intern
+  * IBM Research-Austin
+
+* Summer 2013: Research Intern
+  * Bell Labs
+
+<!--
 Skills
 ======
 * Skill 1
@@ -41,19 +48,4 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
