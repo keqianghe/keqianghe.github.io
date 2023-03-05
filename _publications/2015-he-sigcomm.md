@@ -6,5 +6,5 @@ date: August 2015
 venue: 'ACM SIGCOMM 2015'
 paperurl: '/files/papers/he2015sigcomm.pdf'
 link: 'https://dl.acm.org/doi/10.1145/2829988.2787507'
-citation: 'Kqiang He, Eric Rozner, Kanak Agarwal, Wes Felter, John Carter, Aditya Akella'
+citation: 'Keqiang He, Eric Rozner, Kanak Agarwal, Wes Felter, John Carter, Aditya Akella'
 ---
