@@ -1,5 +1,5 @@
 ---
-title: "Precise data center TE with constrained switch resources"
+title: "Precise Data Center Traffic Engineering with Constrained Switch Resources"
 collection: publications
 permalink: /publication/2023-precise-te
 date: April 2023
