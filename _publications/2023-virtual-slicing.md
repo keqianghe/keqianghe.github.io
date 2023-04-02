@@ -5,4 +5,5 @@ permalink: /publication/2023-virtual-slicing
 date: February 2023
 paperurl: '/files/papers/xu2022atc.pdf'
 link: 'https://www.usenix.org/system/files/atc22-xu.pdf'
+citation: 'Chang, He, et al.'
 ---
