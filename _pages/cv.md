@@ -12,25 +12,26 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of Wisconsin-Madison, 2017
+* M.S. in Computer Science, University of Wisconsin-Madison, 2015
 * M.S. in Computer Science & Technology, Tsinghua University, 2012
 * B.S. in Software Engineering, Xidian University, 2009
 
 Work experience
 ======
-* July 2017 to present: Software Engineer
+* July 2017 to present: Senior Software Engineer
   * Google
   * R&D of data center network solutions for Google and Google Cloud 
 
-* Summer and Fall 2016: Software Engineering Intern
+* May 2016 to December 2016: Research Intern
   * Google
   
-* Summer and Fall 2015: Research Intern
+* June 2015 to January 2016: Research Intern
   * IBM Research-Austin
 
-* Summer and Fall 2014: Research Intern
+* May 2014 to January 2015: Research Intern
   * IBM Research-Austin
 
-* Summer 2013: Research Intern
+* May 2013 to August 2013: Research Intern
   * Bell Labs
 
 <!--
