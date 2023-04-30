@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an engineer and researcher at Google, working in the Network Infrastructure team where I help build Google's data center networks (including topology, routing, traffic engineering, software-defined networking, control plane performance and scalability). I received a Ph.D degree in Computer Science from the University of Wisconsin-Madison. 
+Welcome! I am an engineer and researcher at Google, working in the Network Infrastructure team where I help build Google's data center networks (including topology, routing, traffic engineering, software-defined networking, control plane performance and scalability). 
 
-My reseach interests are computer networks, networked systems, data center networking, software-defined networking, congestion control, network measurement and security.
+I received my Ph.D degree in Computer Science from the University of Wisconsin-Madison. My research interests are computer networks, networked systems, data center networking, software-defined networking, congestion control, network measurement and security.
