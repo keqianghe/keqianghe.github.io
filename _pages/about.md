@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 --- 
 
-I received my Ph.D degree in Computer Science from the University of Wisconsin-Madison. My research interests are computer networking and networked systems.
+I received my Ph.D degree in Computer Science from the University of Wisconsin-Madison. My research interests are systems and networking.
