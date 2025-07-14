@@ -1,5 +1,5 @@
 ---
-title: "Fast Adaptive Speed Scaling Mechnish and Implementation on NetFPGA platform"
+title: "Fast Adaptive Speed Scaling Mechanism and Implementation on NetFPGA Platform"
 collection: publications
 permalink: /publication/2012-fan-infocom
 date: March 2012
