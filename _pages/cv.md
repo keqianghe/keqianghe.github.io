@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of Wisconsin-Madison, 2017
-* M.S. in Computer Science, Tsinghua University, 2012
-* B.S. in Software Engineering, Xidian University, 2009
+* Ph.D. in Computer Science, University of Wisconsin-Madison
+* M.S. in Computer Science, Tsinghua University
+* B.S. in Software Engineering, Xidian University
 
 <!--
 Skills
