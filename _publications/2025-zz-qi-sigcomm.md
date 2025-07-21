@@ -1,5 +1,5 @@
 ---
-title: "Scalable and Robust Global Load Balancing in Commodity AI Clusters"
+title: "SGLB: Scalable and Robust Global Load Balancing in Commodity AI Clusters"
 collection: publications
 permalink: /publication/2023-precise-te
 date: April 2025
