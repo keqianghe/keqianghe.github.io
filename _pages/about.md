@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 --- 
 
-Hi, I am a researcher in computer systems and networking, with a Ph.D. in Computer Science from the University of Wisconsin–Madison. My research focuses on data center networking, cloud infrastructure, and machine learning systems. I have also worked at Google and Airbnb, where I applied systems research to large-scale production environments. 
+Hi, I am a researcher in computer systems and networking. I received my Ph.D. in Computer Science from the University of Wisconsin–Madison. My research focuses on data center networking, cloud infrastructure, and machine learning systems. 
