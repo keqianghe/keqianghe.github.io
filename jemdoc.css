@@ -368,8 +368,6 @@ table.imgtable, table.imgtable td {
 
 /*below is kq's customization beyond zzz's jemdoc.css*/
 .pub-title {
-  font-weight: bold;
-  font-size: 1.05em;
 }
 
 .pub-authors {
@@ -378,7 +376,6 @@ table.imgtable, table.imgtable td {
 
 .pub-venue {
   font-style: italic;
-  color: #666;
 }
 
 .pub-note {
