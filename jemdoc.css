@@ -379,7 +379,7 @@ table.imgtable, table.imgtable td {
 }
 
 .pub-note {
-  font-size: 0.8em;   /* smaller than normal text */
+  font-size: 0.85em;   /* smaller than normal text */
   color: #666;         /* lighter gray */
   /*font-style: italic;*/  /* optional: italics for footnote feel */
   margin-top: -8px;    /* tuck it closer to the line above */
