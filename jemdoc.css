@@ -365,3 +365,24 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+/*below is kq's customization beyond zzz's jemdoc.css*/
+.pub-title {
+  font-weight: bold;
+  font-size: 1.05em;
+}
+
+.pub-authors {
+  color: #444;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #666;
+}
+
+.pub-note {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: -8px;
+}
