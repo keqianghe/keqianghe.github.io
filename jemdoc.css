@@ -384,7 +384,3 @@ table.imgtable, table.imgtable td {
   /*font-style: italic;*/  /* optional: italics for footnote feel */
   margin-top: -8px;    /* tuck it closer to the line above */
 }
-
-.subtle-bold {
-  font-weight: 550;  /* lighter than bold (700), stronger than normal (400) */
-}
