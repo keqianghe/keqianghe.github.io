@@ -386,5 +386,5 @@ table.imgtable, table.imgtable td {
 }
 
 .subtle-bold {
-  font-weight: 600;  /* lighter than bold (700), stronger than normal (400) */
+  font-weight: 550;  /* lighter than bold (700), stronger than normal (400) */
 }
